@@ -28,7 +28,7 @@ Si, de forma que podamos crear de forma personalizada cada uno de los tipos de o
       }
       
       builderPizza *-- "1" pizzas : associatioon
-      class Pizzas{
+      class pizzas{
         +Pizzas()
       }
       
