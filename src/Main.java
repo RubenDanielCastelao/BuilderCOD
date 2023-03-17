@@ -8,6 +8,13 @@ public class Main {
                 .setSalsa(true)
                 .setTipoSalsa("tomate")
                 .build();
+        Pizzas pizzaEjemplo = new BuilderPizzas()
+                .setPiña(false)
+                .setChampiñones(true)
+                .setSalsa(true)
+                .setTipoSalsa("tomate")
+                .build();
+
         System.out.println(pizza3.toString() +"\n");
     }
 }
