@@ -96,7 +96,7 @@ La forma en la que creo que se podrían combinar ambos patrones sería (usando c
 clase BuilderTransportes que tenga un metodo de elección (switch) que nos permita a su vez cambiar los atributos del objeto
 en su creación.
 
-El siguiente metodo recibiría el tipo de objeto que se quiere crear
+El siguiente metodo recibiría el tipo de objeto que se quiere crear.
 ```
 private ITransporte _Transporte;
 
