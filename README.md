@@ -80,7 +80,7 @@ En el siguiente Diagrama de clases no se han escrito 1 por 1 ni los Getter y los
       class Casa{
         +Atributos Casa
         +Getters & Setters()
-        +Pizzas()
+        +Casa()
       }
       
 
